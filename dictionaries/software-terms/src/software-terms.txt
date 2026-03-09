@@ -989,6 +989,7 @@ KotlinScript
 Kramdown
 kstat
 kurtosis
+labelable
 lambda
 lambdas
 lang
