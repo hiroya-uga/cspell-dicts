@@ -1572,6 +1572,7 @@ lResult
 lSize
 lVar
 lVars
+labelable
 laddrs
 lambda
 lambdas
